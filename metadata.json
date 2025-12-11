@@ -1,0 +1,7 @@
+{
+  "name": "lumen",
+  "description": "AI-powered career assistant for students and freshers. Generate resumes, cover letters, and interview prep materials tailored for internships and entry-level roles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
