@@ -108,6 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name or GitHub Handle** - [Your Email Address]
+M.sri vaishnavi - srivaishnavi7661@gmail.com
 
 Project Link: [https://github.com/srivaishnavi7661-code/lumen](https://github.com/srivaishnavi7661-code/lumen)
